@@ -1,4 +1,4 @@
-# portfolio
+# About me
 Aspiring Physicist & Mathematician | Enthusiastic Programmer | Multilingual Communicator
 
 As an ambitious undergraduate student with a passion for applied physics and mathematics, I am dedicated to exploring the intricacies of the universe through analytical reasoning and computational modeling. With a solid foundation in these disciplines, I am seeking transformative opportunities to study at a renowned university abroad, where I can deepen my understanding and contribute to groundbreaking research.
